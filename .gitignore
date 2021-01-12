@@ -2,3 +2,5 @@ copy_paste_code
 server/node_modules
 server/config/default.json
 devconnector_html_theme
+server/client/node_modules
+server/client/.eslintcache
